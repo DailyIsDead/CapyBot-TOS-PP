@@ -14,6 +14,6 @@
 8. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of Germany.
 9. Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, whether written or oral, relating to the Bot.
 10. Disclaimer: The Bot Owner does not guarantee the availability, functionality, or performance of the Bot and shall not be liable for any interruptions or errors.
-11. Privacy Policy: If the Bot collects any user data, such data will be handled in accordance with the Bot Owner's Privacy Policy, which can be found at [https://github.com/DailyIsDead/CapyBot-TOS-PP/blob/main/privacy-policy.md](https://github.com/DailyIsDead/CapyBot-TOS-PP/blob/8c4c190034126be2f42e6353070e16f4d18da519/privacy-policy.md).
+11. Privacy Policy: If the Bot collects any user data, such data will be handled in accordance with the Bot Owner's Privacy Policy, which can be found [here](https://github.com/DailyIsDead/CapyBot-TOS-PP/blob/16eb62bb6b594e6b92f3a187dd2a6f5e8c2e6530/privacy-policy.md).
 
 ## By using the Bot, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
